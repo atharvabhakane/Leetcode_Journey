@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -95,4 +97,20 @@
 |  |
 | ------- |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
