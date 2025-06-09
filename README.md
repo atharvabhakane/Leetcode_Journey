@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -63,4 +64,16 @@
 |  |
 | ------- |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
