@@ -6,6 +6,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -72,10 +73,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
