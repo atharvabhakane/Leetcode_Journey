@@ -4,16 +4,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
