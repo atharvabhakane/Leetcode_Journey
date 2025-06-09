@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0052-n-queens-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
