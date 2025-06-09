@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
@@ -54,4 +56,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
