@@ -1,30 +1,21 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        int n = s.size();
-        int val = 2 * numRows - 2;
-        if(val == 0) return s;
-        string ans = "";
-        for(int i=0; i<n; i+=val){
-            ans += s[i];
+        if (numRows == 1) {
+            return s;
         }
-        for(int i=1; i<numRows-1; i++){
-            bool flag = true;
-            int j = i;
-            while(j < n){
-                ans += s[j];
-                if(flag){
-                    flag = false;
-                    j += val - (i * 2);
-                }
-                else {
-                    flag = true;
-                    j += i * 2;
-                }
+        vector<string> g(numRows);
+        int i = 0, k = -1;
+        for (char c : s) {
+            g[i] += c;
+            if (i == 0 || i == numRows - 1) {
+                k = -k;
             }
+            i += k;
         }
-        for(int i=numRows-1; i<n; i+=val){
-            ans += s[i];
+        string ans;
+        for (auto& t : g) {
+            ans += t;
         }
         return ans;
     }
