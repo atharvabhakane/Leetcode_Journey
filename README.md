@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0008-string-to-integer-atoi) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
