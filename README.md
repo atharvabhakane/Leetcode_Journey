@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -41,4 +42,16 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
