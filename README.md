@@ -29,11 +29,13 @@
 | ------- |
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Enumeration
@@ -106,10 +108,12 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,4 +122,20 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
