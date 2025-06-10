@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
+| [0476-number-complement](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
