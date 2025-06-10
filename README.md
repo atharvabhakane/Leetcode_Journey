@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -95,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -105,6 +107,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0011-container-with-most-water) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
