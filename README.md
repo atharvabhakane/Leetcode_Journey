@@ -31,6 +31,7 @@
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0414-third-maximum-number](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0414-third-maximum-number) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -79,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0414-third-maximum-number) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Linked List
