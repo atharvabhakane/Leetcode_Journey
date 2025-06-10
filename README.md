@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0091-decode-ways) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
@@ -126,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0091-decode-ways) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph
 |  |
