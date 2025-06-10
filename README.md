@@ -7,6 +7,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -53,6 +55,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
