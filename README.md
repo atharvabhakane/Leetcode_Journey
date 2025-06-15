@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
@@ -84,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
