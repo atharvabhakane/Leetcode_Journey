@@ -31,6 +31,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0076-minimum-window-substring) |
+| [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
@@ -58,6 +60,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 ## Stack
 |  |
@@ -170,4 +173,5 @@
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
