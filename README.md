@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -23,6 +24,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
@@ -117,6 +119,7 @@
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Tree
 |  |
