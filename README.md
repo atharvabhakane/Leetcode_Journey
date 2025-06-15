@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -188,6 +189,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
