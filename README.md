@@ -47,6 +47,7 @@
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
