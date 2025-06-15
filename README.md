@@ -40,6 +40,7 @@
 | [0068-text-justification](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0068-text-justification) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
