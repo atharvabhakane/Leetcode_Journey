@@ -10,6 +10,7 @@
 | [0141-linked-list-cycle](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
+| [1364-tuple-with-same-product](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
@@ -49,6 +50,7 @@
 | [0907-koko-eating-bananas](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1046-max-consecutive-ones-iii) |
+| [1364-tuple-with-same-product](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -132,6 +134,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Tree
