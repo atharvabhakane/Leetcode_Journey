@@ -38,6 +38,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1044-find-common-characters](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/1044-find-common-characters) |
 | [3849-equal-sum-grid-partition-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/atharvabhakane/Leetcode_Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
